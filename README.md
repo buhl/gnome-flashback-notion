@@ -1,10 +1,12 @@
-# i3-gnome [![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)]()
+# WIP - not ready for use
+# notion-gnome [![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)]()
+forked from [i3-gnome/i3-gnome](https://github.com/i3-gnome/i3-gnome)
 
 <p align="center">
-  <img src="https://i.imgur.com/Ia1pJUK.png" width="45%" height="45%">
+  <img src="https://user-images.githubusercontent.com/131856/71557652-42ce0a80-2a49-11ea-868e-e9eb116508b2.png" width="45%" height="45%">
 </p>
 
-Allows you to use i3-wm with GNOME 3 Session infrastructure.
+Allows you to use notion with GNOME 3 Session infrastructure.
 
 
 ## What do I'll get by installing it?
@@ -12,13 +14,10 @@ Allows you to use i3-wm with GNOME 3 Session infrastructure.
 
 
 ## Requirements
-* i3-wm
+* [Notion](https://notionwm.net/)
 * GNOME (3.36.x)
 * GDM (optional, but useful)
-* [GNOME Flashback](https://github.com/i3-gnome/i3-gnome/wiki/Tips-&-Tricks#gnome-flashback)
-
-## Packages
-[![i3-gnome](https://img.shields.io/aur/version/i3-gnome.svg?label=i3-gnome)](https://aur.archlinux.org/packages/i3-gnome/)
+* [GNOME Flashback (i3)](https://github.com/i3-gnome/i3-gnome/wiki/Tips-&-Tricks#gnome-flashback)
 
 ## Installation from scratch
 Using `make`:
@@ -26,18 +25,12 @@ Using `make`:
 * on the terminal go to the repo directory.
 * `sudo make install`
 
-## Contributing
-* [Guidelines](https://github.com/i3-gnome/i3-gnome/wiki/Contributing)
-
 ## Troubleshooting
 * Report issues.
-* Visit our [FAQ](https://github.com/i3-gnome/i3-gnome/issues?q=is%3Aissue+sort%3Aupdated-desc+is%3Aclosed+label%3AFAQ).
-* [Questions](https://github.com/i3-gnome/i3-gnome/labels/question).
+* Visit our [FAQ (i3)](https://github.com/i3-gnome/i3-gnome/issues?q=is%3Aissue+sort%3Aupdated-desc+is%3Aclosed+label%3AFAQ).
+* [Questions (i3)](https://github.com/i3-gnome/i3-gnome/labels/question).
 
-## Wiki
+## Wiki (i3)
 Visit our [wiki](https://github.com/i3-gnome/i3-gnome/wiki) to get reference and more information about.
 * [Tips & Tricks](https://github.com/i3-gnome/i3-gnome/wiki/Tips-&-Tricks)
-
----
-MIT - © 2014-2017 [Lorenzo Villani](https://github.com/lvillani). 2017 i3-gnome team.
 
